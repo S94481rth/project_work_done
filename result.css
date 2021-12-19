@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+
+}
+body{
+    background-color: aqua;
+}
+.Question_box{
+    padding-top: 10%;
+    width: 400px;
+    height: 400px;
+    border-radius: 60%;
+    background-color: blue;
+    align-items: center;
+    transform: translate(90%,-7%);
+}
+.logo{
+    position: center;
+    width: 40px;
+    height: 40px;
+    transform: translate(-1200%,30%);
+}
+.user{
+    width: 40px;
+    height: 40px;
+    transform: translate(1250%,-70%);
+}
+
